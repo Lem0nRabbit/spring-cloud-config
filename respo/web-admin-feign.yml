@@ -8,8 +8,8 @@ spring:
         git:
           uri: https://github.com/Lem0nRabbit/spring-cloud-config
           search-paths: respo
-          username: Lem0nRabbit
-          password: JuanJuan19960416
+          username:
+          password:
 
 server:
   port: 8888
